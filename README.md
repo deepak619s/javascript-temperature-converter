@@ -11,7 +11,7 @@
 - 🌡️ Instant Temperature Conversion – Quickly convert between Celsius, Fahrenheit, and Kelvin with a simple input.
 - 🔎 Real-Time Conversion – Get accurate results instantly as you enter the temperature.
 - ⚡ Lightning-Fast Performance – Optimized for speed and accuracy, with zero delays in conversion.
-🎨 Sleek & Responsive UI – Enjoy a user-friendly, mobile-friendly design that works on any device.
+- 🎨 Sleek & Responsive UI – Enjoy a user-friendly, mobile-friendly design that works on any device.
 - 🔧 Customizable Design – Tailor the UI to suit your preferences with easy theme options.
 - 🧑‍💻 Simple & Intuitive Controls – Easy-to-use input and output fields for effortless conversion.
 - 🔒 Safe and Secure – Built with best practices to ensure smooth and secure user interactions.
